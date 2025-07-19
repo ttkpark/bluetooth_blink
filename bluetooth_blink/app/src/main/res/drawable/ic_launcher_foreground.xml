@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- 블루투스 심볼 -->
+    <path
+        android:fillColor="#2196F3"
+        android:strokeColor="#2196F3"
+        android:strokeWidth="3"
+        android:pathData="M54,20 L54,88 M40,35 L54,20 L68,35 L54,50 M40,73 L54,58 L68,73 L54,88" />
+    
+    <!-- LED 표시 (원형) -->
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M30,30 m-8,0 a8,8 0 1,1 16,0 a8,8 0 1,1 -16,0" />
+    
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M78,30 m-8,0 a8,8 0 1,1 16,0 a8,8 0 1,1 -16,0" />
+    
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M54,78 m-8,0 a8,8 0 1,1 16,0 a8,8 0 1,1 -16,0" />
+    
+    <!-- 모터 표시 (사각형) -->
+    <path
+        android:fillColor="#9C27B0"
+        android:pathData="M45,45 L63,45 L63,63 L45,63 Z" />
+        
+</vector>

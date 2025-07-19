@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    
+    <!-- LED 꺼진 상태 (회색 원) -->
+    <path
+        android:fillColor="#808080"
+        android:pathData="M12,12 m-8,0 a8,8 0 1,1 16,0 a8,8 0 1,1 -16,0" />
+        
+</vector> 
